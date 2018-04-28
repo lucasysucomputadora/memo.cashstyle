@@ -1,0 +1,39 @@
+body {
+    background-color: #333;
+    color: #EEE;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+a, input{
+    color: #F4F4F4 !IMPORTANT;
+}
+h1 {
+    text-align: center;
+}
+input[type="text"], input[type="password"], .btn-leave, .btn, textarea {
+    background-color: #222 !IMPORTANT;
+    color: #EEE;
+}
+.post {
+    background-color: #282828;
+}
+.post .post-header {
+	  background-color: #33333a;
+}
+body h1 a {
+    font-size: 0px;
+}
+hr {
+    height: 2px;
+    border: 0;
+    border-top: 1px solid #999;
+    margin: 1em 0;
+}
+/* if you dont like having everything centered, comment out these last lines. */
+body {
+    text-align: center;
+}
+table, .post {
+    margin-left:auto;
+    margin-right:auto;
+}
