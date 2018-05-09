@@ -23,6 +23,13 @@ input[type="text"], input[type="password"], .btn-leave, .btn, textarea {
 .post .post-header {
       background-color: #33333a;
 }
+ .post .reply {
+    margin: 5px 0 10px;
+    border: 2px solid #a7efff;
+    background: #282828;
+    padding: 10px;
+    border-radius: 11px;
+}
 body h1 a {
     font-size: 0px;
 }
