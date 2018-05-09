@@ -1,19 +1,22 @@
 body {
-    background-color: #333;
+    background-color: #555;
     color: #EEE;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
 }
 a, input{
-    color: #F4F4F4 !IMPORTANT;
+    color: #FFFFFF !IMPORTANT;
 }
-h1 {
+/*h1 {
     text-align: center;
-}
+}*/
 input[type="text"], input[type="password"], .btn-leave, .btn, textarea {
     background-color: #222 !IMPORTANT;
     color: #EEE;
 }
+/*.container {
+    block-align: left;
+}*/
 .wrapper {
     background-color: #333;
 }
@@ -25,13 +28,13 @@ input[type="text"], input[type="password"], .btn-leave, .btn, textarea {
 }
  .post .reply {
     margin: 5px 0 10px;
-    border: 2px solid #a7efff;
+    border: 4px solid #ffffff;
     background: #282828;
     padding: 10px;
     border-radius: 11px;
 }
 body h1 a {
-    font-size: 0px;
+    font-size: 32px;
 }
 hr {
     height: 2px;
@@ -40,9 +43,9 @@ hr {
     margin: 1em 0;
 }
 
-body {
+/*body {
     text-align: center;
-}
+}*/
 table, .post {
     margin-left:auto;
     margin-right:auto;
